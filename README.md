@@ -1,1 +1,0 @@
-# synent-task5-SalesDataAnalysis-Tavakkal
